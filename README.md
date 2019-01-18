@@ -1,9 +1,9 @@
 # LearnEthicalHacking
 Learn Ethical Hacking from Udemy
 
-## Goal: try to understand Network from this [course](https://www.udemy.com/learn-ethical-hacking-from-scratch)
+### Goal: try to understand Network from this [course](https://www.udemy.com/learn-ethical-hacking-from-scratch)
 
-## Prepare:
+### Prepare:
 
 1. Download VirtualBox: https://www.virtualbox.org/wiki/Downloads
 2. Download Kali Linux for virtualbox: https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/
@@ -14,7 +14,7 @@ Learn Ethical Hacking from Udemy
 > Ubuntu 18.04 install ```rtl8812au-dkms```: https://packages.ubuntu.com/bionic/rtl8812au-dkms (not successful now...)
 >
 
-## command:
+### command:
 
 **ifconfig**
 
@@ -24,7 +24,7 @@ Learn Ethical Hacking from Udemy
 
 **iw** show / manipulate wireless devices and their configuration
 
-## Lesson
+### Lesson
 
 1. Change wireless to monitor mode
 
