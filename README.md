@@ -11,7 +11,7 @@ Learn Ethical Hacking from Udemy
 
 > kali Linux install wireless adapter driver: ```apt-get update && apt-get install realtek-rtl88xxau-dkms```
 >
-> Ubuntu 18.04 install ```rtl8812au-dkms```: https://packages.ubuntu.com/bionic/rtl8812au-dkms (not successful now...)
+> Youtube: [Installing Drivers for RealTek RTL8812AU on Kali Linux & Testing Monitor Mode & Packet Injection](https://www.youtube.com/watch?v=wiIoR_0epvs&feature=youtu.be)
 >
 
 ### command:
