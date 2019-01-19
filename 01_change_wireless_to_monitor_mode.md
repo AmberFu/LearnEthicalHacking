@@ -52,3 +52,4 @@ wlan0     IEEE 802.11  Mode:Monitor  Frequency:2.412 GHz  Tx-Power=18 dBm
           Retry short limit:7   RTS thr:off   Fragment thr:off
           Power Management:off
 ```
+Other way to enabling monitor mode by using `airmon-ng`: [youtube](https://www.youtube.com/watch?v=wiIoR_0epvs&feature=youtu.be)
