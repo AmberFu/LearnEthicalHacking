@@ -53,3 +53,9 @@ wlan0     IEEE 802.11  Mode:Monitor  Frequency:2.412 GHz  Tx-Power=18 dBm
           Power Management:off
 ```
 Other way to enabling monitor mode by using `airmon-ng`: [youtube](https://www.youtube.com/watch?v=wiIoR_0epvs&feature=youtu.be)
+
+```
+# ifconfig wlan0 down
+# airmon-ng check kill
+# airmon-ng start wlan0
+```
