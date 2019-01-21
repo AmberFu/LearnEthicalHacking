@@ -1,7 +1,7 @@
 # LearnEthicalHacking
 Learn Ethical Hacking from Udemy
 
-### Goal: try to understand Network from this [course](https://www.udemy.com/learn-ethical-hacking-from-scratch)
+**Goal: try to understand Network Security from this [course](https://www.udemy.com/learn-ethical-hacking-from-scratch)**
 
 ### Prepare:
 
